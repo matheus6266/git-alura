@@ -6,3 +6,12 @@ O terceiro paragrafo nao esta certo
 ************Paragrafos Alterados************
 Teste rebase
 Alteração feita no GitHub
+
+
+
+
+
+
+
+
+depois do stash
