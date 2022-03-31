@@ -8,6 +8,7 @@ Teste rebase
 Alteração feita no GitHub
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -15,3 +16,6 @@ Alteração feita no GitHub
 
 
 depois do stash
+=======
+teste git stash
+>>>>>>> Stashed changes
